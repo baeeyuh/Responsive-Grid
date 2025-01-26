@@ -1,5 +1,3 @@
-import React from 'react'
-
 const App = () => {
   return (
     <div id="Main Container" className='bg-black text-white h-screen flex justify-center items-center bg-[url("assets/images/fn.jpg")] bg-cover bg-center'>
